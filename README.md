@@ -7,4 +7,4 @@ For the final project, I started by analyzing child abuse statistics in the Unit
 #### Findings
 Although the heat map does not show strong correlations, there were some interesting findings in the data. When comparing the ten states with the lowest median incomes, to the states with the highest unemployment rates, the highest child fatality rates, and the highest child abuse percentages, there was some overlapping. Interestingly, the states with the highest fatality rates and the states with the highest percentage of child abuse only had two states overlap. This may be interesting to look at further from a psychological perspective. Perhaps child abuse perpetrators want to avoid law enforcement engagements. The large disparity in power gives them confidence that the victim will remain silent and as long as the abuse does not escalate, the perpetrators can continue their habits of abuse without being discovered. 
 
-[Child Abuse Percentages by State](https://ktwilliams15.github.io/abuse_perc/abuse_perc.html)
+[Child Abuse Percentages by State](https://ktwilliams15.github.io/abuse_perc/abuse_fatal.html)
