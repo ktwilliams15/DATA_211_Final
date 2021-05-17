@@ -1,10 +1,10 @@
 # DATA 211 Final
-#### Background
+### Background
 For the final project, I started by analyzing child abuse statistics in the United States. The original data contained the number of child abuse cases per state in 2018. As expected, the states with larger populations had more child abuse cases. Importing U.S. census data, I was able to find the number of children (under the age of 18) in each state. To standardize the data, I divided the total child abuse cases in each state by the number of children in each state. In order to grow understanding of child abuse, I decided to compare the percentage of child abuse to median income, unemployment rates, and the child fatality rate in each state. Looking at a heatmap of the correlations of these features, you can quickly see that there is not a strong relationship between any of these features. 
 
 ![Heatmap of Percentage of Child Abuse, Child Fatality Rate, Median Income, and Unemployment Rates](Correlation_Final.png)
 
-#### Findings
+### Findings
 Although the heat map does not show strong correlations, there were some interesting findings in the data. When comparing the ten states with the lowest median incomes, to the states with the highest unemployment rates, the highest child fatality rates, and the highest child abuse percentages, there was some overlapping. Interestingly, the states with the highest fatality rates and the states with the highest percentage of child abuse only had two states overlap. This may be interesting to look at further from a psychological perspective. Perhaps child abuse perpetrators want to avoid law enforcement engagements. The large disparity in power gives them confidence that the victim will remain silent and as long as the abuse does not escalate, the perpetrators can continue their habits of abuse without being discovered. 
 
 [Child Abuse Percentages vs. Child Fatality Rates](https://ktwilliams15.github.io/abuse_perc/abuse_fatal.html)
@@ -26,8 +26,10 @@ When using Income and Unemployment Rates as predictors of the Child Fatality Rat
 [Child Fatality Rates vs. Unemployment Rates](https://ktwilliams15.github.io/abuse_perc/fat_un.html)
 
 
+[Child Abuse Percentages, Child Fatality Rate, Median Income, and Unemployment Rates](https://ktwilliams15.github.io/abuse_perc/final_project.html)
 
 Comparing the ten states with the highest median incomes, to the states with the ten lowest unemployment rates, the ten lowest child fatality rates, and the ten lowest child abuse percentages yielded similar results (although not as strong) to the converse analyzed above. There were three states that overlapped in the percentage of child abuse and child fatality rate. Only two states of the ten with the highest median income were also in the top ten of states with the lowest unemployment rates. Two states among the ten with the highest median income were also in the top ten states with the lowest child abuse percentages. Two different states in the group of ten states with the lowest unemployment rates were also in the group of ten states with the lowest child abuse percentages. Four states with the lowest child fatality rates overlapped with the states with the highest median income. Two of the overlaps, New Hampshire and Nebraska, are also among the top ten states with the lowest unemployment rates. In total, four of the ten states with the lowest child fatality rates were also among the ten states with the lowest unemployment rates. 
 
 
-[Child Abuse Percentages, Child Fatality Rate, Median Income, and Unemployment Rates](https://ktwilliams15.github.io/abuse_perc/final_project.html)
+### Conclusions
+Although beginning with a very broad subject matter, the final results yielded very interesting starting points for future research. The outcome suggests that there may be a relationship between child abuse and income or more generally employment prospects (unemployment rates). At the beginning of this project, I suspected that unemployment rates would have a greater correlation to child abuse and child fatality rates. However, it became clear that median income had the stronger relationship to child abuse and child fatality rates. Using a more advanced machine learning model, one could begin to find the strongest indicators to child abuse. Perhaps it would be best to mathematically combine the unemployment rates and median income into a single category. Adding in a few more features such as average education level, race, and criminal records from each state could potentially create a strong machine learning model that identifies the states most at risk of high child abuse percentages. Further, obtaining data at the county level is essential to continued research. Even among states, the variance from county to county is to large to make any sweeping claims about why there is high rates of child abuse. At the county level, the results begin to lead to greater understanding of the drivers of child absue. 
