@@ -15,8 +15,18 @@ On the other hand, the ten lowest median incomes and the ten highest unemploymen
 
 When using Income and Unemployment Rates as predictors of the Child Fatality Rate and Percentage of Child Abuse Victims, there is considerable overlap. Five states in the ten lowest median incomes are also among the top ten states with the highest Child Fatality Rates. Further, four states in ten lowest median incomes are among the top ten states with the highest Percentage of Child Abuse. The unemployment ratio was not as strong of a predictor as the median income; however, two states of the ten highest unemployment ratios were in the top ten states with the highest Child Fatality Rate, and three states among the highest unemployment ratios were also among the states with the highest child abuse percentages. 
 
+
 [Child Abuse Percentages vs. Median Income](https://ktwilliams15.github.io/abuse_perc/per_inc.html)
+
 [Child Abuse Percentages vs. Unemployment Rates](https://ktwilliams15.github.io/abuse_perc/per_un.html)
 
-[Child Fatality Rates vs. Median Income]((https://ktwilliams15.github.io/abuse_perc/fat_inc.html)
+
+[Child Fatality Rates vs. Median Income](https://ktwilliams15.github.io/abuse_perc/fat_inc.html)
+
 [Child Fatality Rates vs. Unemployment Rates](https://ktwilliams15.github.io/abuse_perc/fat_un.html)
+
+
+
+Comparing the ten states with the highest median incomes, to the states with the ten lowest unemployment rates, the ten lowest child fatality rates, and the ten lowest child abuse percentages yielded similar results (although not as strong) to the converse analyzed above. There were three states that overlapped in the percentage of child abuse and child fatality rate. Only two states of the ten with the highest median income were also in the top ten of states with the lowest unemployment rates. Two states among the ten with the highest median income were also in the top ten states with the lowest child abuse percentages. Two different states in the group of ten states with the lowest unemployment rates were also in the group of ten states with the lowest child abuse percentages. Four states with the lowest child fatality rates overlapped with the states with the highest median income. Two of the overlaps, New Hampshire and Nebraska, are also among the top ten states with the lowest unemployment rates. In total, four of the ten states with the lowest child fatality rates were also among the ten states with the lowest unemployment rates. 
+
+
