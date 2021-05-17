@@ -9,4 +9,6 @@ Although the heat map does not show strong correlations, there were some interes
 
 [Child Abuse Percentages vs. Child Fatality Rates by State](https://ktwilliams15.github.io/abuse_perc/abuse_fatal.html)
 
-On the other hand, the ten lowest median incomes and the ten highest unemployment ratios had four states overlap. Economically, it makes sense that a state with a higher unemployment ratio will have lower wages. Since the supply of workers is larger than the number of jobs, companies can pay workers less money because t
+On the other hand, the ten lowest median incomes and the ten highest unemployment ratios had four states overlap. Economically, it makes sense that a state with a higher unemployment ratio will have lower wages. Since the supply of workers is larger than the number of jobs, companies can pay workers less money because there are unemployed citizens willing to work at for lower wages. Conversely, it could be that since the wages offered by companies in that state are lower, unemployed citizens do not feel that they are being compensated fairly and choose to collect unemployment rather than work. Although, this is not a likely scenario since you must be actively looking for a job to be considered part of the work force and thus contributing to the unemployment rate. 
+
+
