@@ -13,3 +13,4 @@ On the other hand, the ten lowest median incomes and the ten highest unemploymen
 
 [Unemployment Rate vs. Median Income](https://ktwilliams15.github.io/unemp_rate/unemp_inc.html)
 
+When using Income and Unemployment Rates as predictors of the Child Fatality Rate and Percentage of Child Abuse Victims, there is considerable overlap. Five states in the ten lowest median incomes are also among the top ten states with the highest Child Fatality Rates. Further, four states in ten lowest median incomes are among the top ten states with the highest Percentage of Child Abuse. The unemployment ratio was not as strong of a predictor as the median income; however, two states of the ten highest unemployment ratios were in the top ten states with the highest Child Fatality Rate, and three states among the highest unemployment ratios were also among the states with the highest child abuse percentages. 
